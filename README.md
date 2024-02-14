@@ -76,17 +76,7 @@ python rdp.py
 
 ![image](https://user-images.githubusercontent.com/58414694/149620450-4558489e-f00e-4035-8ccd-4ca231f900a4.png)
 
- 
- - 5 - Debian Linux XFCE4 (Web VNC) :
-
-![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/1.jpg)
-
-
- - 6 - Ubuntu Desktop lxde (Web VNC) :
-
-![image](https://github.com/OnlineHacKing/Cloud_Linux_RDP/raw/main/OnlineHacKing/3.jpg)
-
-  - 7 - XFCE4 Desktop:
+  - 5 - XFCE4 Desktop:
 
 ![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
 
