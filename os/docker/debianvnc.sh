@@ -5,8 +5,6 @@ ngrok="$(ps -efw | grep ngrok | grep -v grep | awk '{print $2}')"
 kill -9 $php
 kill -9 $ngrok
 echo "Preparing...."
-wget -O ngrok-stable-linux-amd64.zip "https://github.com/KhanhNguyen9872/Debian_VPS_Google_Shell/blob/main/ngrok-stable-linux-amd64.zip?raw=true" > /dev/null 2>&1
-unzip ngrok-stable-linux-amd64.zip > /dev/null 2>&1; rm ngrok-stable-linux-amd64.zip 2> /dev/null
 sudo mv ./ngrok /bin/ngrok; chmod 777 /bin/ngrok
 read -p "INSERT authtoken ngrok: " key
 ngrok authtoken $key
