@@ -5,12 +5,6 @@ kill -9 $php
 kill -9 $ngrok
 echo -e "$123\n$123\n" | sudo passwd
 clear
-rm -rf ngrok  ngrok.zip  ng.sh > /dev/null 2>&1
-echo -e "\e[91m =======================\e[0m"
-echo "  Downloading ngrok..."
-echo -e "\e[91m =======================\e[0m"
-wget -O ngrok.zip https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip > /dev/null 2>&1
-unzip ngrok.zip > /dev/null 2>&1
 clear
 echo ""
 echo -e "\e[31m[\e[32m*\e[31m]\e[93m Go to : \e[97m https://dashboard.ngrok.com/get-started/your-authtoken \e[m "
