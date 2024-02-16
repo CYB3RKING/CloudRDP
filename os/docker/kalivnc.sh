@@ -16,7 +16,7 @@ echo ""
 ./ngrok authtoken $CRP 
 clear
 echo ""
-echo "Repo: https://github.com/OnlineHacKing/Cloud_Linux_RDP"
+echo ""
 echo ""
 echo "==========================================================="
 echo -e "\e[96mChoose Ngrok Region (for better connection).\e[0m"
@@ -39,7 +39,7 @@ echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   --------------------
 echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;93m  !!          Download Kali Linux        !!\e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   --------------------------------------- \e[1;91m\e[0m'
 echo ""
-echo -e "\e[1;33m[\e[0m\e[1;77m~\e[0m\e[1;33m]\e[0m\e[1;32m \e[95m Onine Hacking \e[0m"
+echo -e ""
 echo ""
 sleep 1
 docker pull danielguerra/ubuntu-xrdp
